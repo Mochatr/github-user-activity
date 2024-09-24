@@ -1,5 +1,7 @@
 # GitHub Activity CLI
 
+This Project is one of the projects suggested to learn Java. You can find the project requirements [here](https://roadmap.sh/projects/github-user-activity).
+
 This is a simple command-line interface (CLI) application written in Java that fetches and displays the recent activity of a GitHub user. The application uses the GitHub API to retrieve the user's activity and displays it in the terminal.
 
 ## Features
